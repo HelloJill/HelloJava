@@ -1,5 +1,3 @@
-package org.cadenhead.ecommerce;
-
 public class GiftShop {
    public static void main(String[] arguments) {
         Storefront store = new Storefront();

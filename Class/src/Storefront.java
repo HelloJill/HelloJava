@@ -1,5 +1,3 @@
-package org.cadenhead.ecommerce;
-
 import java.util.*;
 
 public class Storefront {

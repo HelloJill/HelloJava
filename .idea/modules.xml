@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiUse/ApiUse.iml" filepath="$PROJECT_DIR$/ApiUse/ApiUse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Genericity/Genericity.iml" filepath="$PROJECT_DIR$/Genericity/Genericity.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HelloJava.iml" filepath="$PROJECT_DIR$/.idea/HelloJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java继承/Java继承.iml" filepath="$PROJECT_DIR$/Java继承/Java继承.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphi/Polymorphi.iml" filepath="$PROJECT_DIR$/Polymorphi/Polymorphi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
     </modules>
   </component>
 </project>

@@ -1,5 +1,3 @@
-package interfacestudy;
-
 /**
  * 接口概述：
  * 1.什么是接口
